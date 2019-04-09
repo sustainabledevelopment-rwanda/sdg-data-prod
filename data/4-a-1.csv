@@ -1,7 +1,44 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Access,Level of Education,Value
+2016,Grid Electricity,Nursery,13.1
+2016,Grid Electricity,Primary,30.0
+2016,Grid Electricity,Secondary,46.1
+2016,Internet Connectivity,Primary,9.8
+2016,Internet Connectivity,Secondary,35.4
+2016,Computers,Primary,65.8
+2016,Computers,Secondary,77.3
+2016,Basic Handwashing Facilities,Nursery,19.9
+2016,Basic Handwashing Facilities,Primary,45.2
+2017,Grid Electricity,Nursery,32.3
+2017,Grid Electricity,Primary,55.8
+2017,Grid Electricity,Secondary,71.2
+2017,Internet Connectivity,Primary,25.1
+2017,Internet Connectivity,Secondary,41.3
+2017,Computers,Primary,69.2
+2017,Computers,Secondary,84.7
+2017,Adapted Infrastructure and Materials for students with disabilities,Nursery,5.7
+2017,Adapted Infrastructure and Materials for students with disabilities,Primary,18.0
+2017,Adapted Infrastructure and Materials for students with disabilities,Secondary,23.5
+2017,Safe drinking water,Nursery,19.0
+2017,Safe drinking water,Primary,45.5
+2017,Safe drinking water,Secondary,58.5
+2017,Basic Handwashing Facilities,Nursery,24.0
+2017,Basic Handwashing Facilities,Primary,64.8
+2017,Basic Handwashing Facilities,Secondary,70.6
+2018,Grid Electricity,Nursery,39.8
+2018,Grid Electricity,Primary,58.2
+2018,Grid Electricity,Secondary,74.2
+2018,Internet Connectivity,Primary,30.0
+2018,Internet Connectivity,Secondary,52.9
+2018,Computers,Primary,75.5
+2018,Computers,Secondary,84.3
+2018,Adapted Infrastructure and Materials for students with disabilities,Nursery,8.2
+2018,Adapted Infrastructure and Materials for students with disabilities,Primary,24.0
+2018,Adapted Infrastructure and Materials for students with disabilities,Secondary,28.6
+2018,Safe drinking water,Pre-Nursery,47.9
+2018,Safe drinking water,Nursery,27.5
+2018,Safe drinking water,Primary,53.6
+2018,Safe drinking water,Secondary,71.9
+2018,Basic Handwashing Facilities,Pre-Nursery,58.3
+2018,Basic Handwashing Facilities,Nursery,28.6
+2018,Basic Handwashing Facilities,Primary,66.0
+2018,Basic Handwashing Facilities,Secondary,76.9

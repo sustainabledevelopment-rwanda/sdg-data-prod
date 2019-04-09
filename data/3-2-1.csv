@@ -1,7 +1,130 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Preceding year,Residence,Province,District,Mothers Education,Wealth quantile,Childs sex,Mothers age at Birth,Birth order,Previous birth interval,GeoCode,Value
+2007,,,,,,,,,,,,103
+2010,,,,,,,,,,,,76
+2014,,,,,,,,,,,,50
+2007,0 to 4,,,,,,,,,,,103
+2007,5 to 9,,,,,,,,,,,173
+2007,10 to 14,,,,,,,,,,,178
+2007,,Urban,,,,,,,,,,87
+2007,,Rural,,,,,,,,,,142
+2007,,,Kigali City,,,,,,,,1.0,102
+2007,,,Southern Province,,,,,,,,2.0,127
+2007,,,Western Province,,,,,,,,3.0,129
+2007,,,Northern Province,,,,,,,,4.0,115
+2007,,,Eastern Province,,,,,,,,5.0,174
+2007,,,,,No education,,,,,,,174
+2007,,,,,Primary,,,,,,,127
+2007,,,,,Secondary and higher,,,,,,,43
+2007,,,,,,Lowest,,,,,,161
+2007,,,,,,Second,,,,,,149
+2007,,,,,,Middle,,,,,,132
+2007,,,,,,Fourth,,,,,,141
+2007,,,,,,Highest,,,,,,84
+2007,,,,,,,Male,,,,,146
+2007,,,,,,,Female,,,,,123
+2007,,,,,,,,<20,,,,176
+2007,,,,,,,,20 to 29,,,,131
+2007,,,,,,,,30 to 39,,,,135
+2007,,,,,,,,40 to 49,,,,93
+2007,,,,,,,,,1,,,144
+2007,,,,,,,,,2 to 3,,,125
+2007,,,,,,,,,4 to 6,,,130
+2007,,,,,,,,,7+,,,155
+2007,,,,,,,,,,<2 years,,210
+2007,,,,,,,,,,2 years,,114
+2007,,,,,,,,,,3 years,,90
+2007,,,,,,,,,,4+ years,,95
+2010,0 to 4,,,,,,,,,,,76
+2010,5 to 9,,,,,,,,,,,133
+2010,10 to 14,,,,,,,,,,,197
+2010,,Urban,,,,,,,,,,81
+2010,,Rural,,,,,,,,,,105
+2010,,,Kigali City,,,,,,,,1.0,79
+2010,,,Southern Province,,,,,,,,2.0,96
+2010,,,Western Province,,,,,,,,3.0,88
+2010,,,Northern Province,,,,,,,,4.0,107
+2010,,,Eastern Province,,,,,,,,5.0,125
+2010,,,,,No education,,,,,,,125
+2010,,,,,Primary,,,,,,,99
+2010,,,,,Secondary and higher,,,,,,,63
+2010,,,,,,Lowest,,,,,,119
+2010,,,,,,Second,,,,,,103
+2010,,,,,,Middle,,,,,,104
+2010,,,,,,Fourth,,,,,,104
+2010,,,,,,Highest,,,,,,75
+2010,,,,,,,Male,,,,,107
+2010,,,,,,,Female,,,,,97
+2010,,,,,,,,<20,,,,137
+2010,,,,,,,,20 to 29,,,,102
+2010,,,,,,,,30 to 39,,,,96
+2010,,,,,,,,40 to 49,,,,89
+2010,,,,,,,,,1,,,107
+2010,,,,,,,,,2 to 3,,,103
+2010,,,,,,,,,4 to 6,,,94
+2010,,,,,,,,,7+,,,111
+2010,,,,,,,,,,<2 years,,156
+2010,,,,,,,,,,2 years,,87
+2010,,,,,,,,,,3 years,,76
+2010,,,,,,,,,,4+ years,,78
+2014,0 to 4,,,,,,,,,,,50
+2014,5 to 9,,,,,,,,,,,84
+2014,10 to 14,,,,,,,,,,,150
+2014,,Urban,,,,,,,,,,51
+2014,,Rural,,,,,,,,,,70
+2014,,,Kigali City,,,,,,,,1.0,42
+2014,,,Southern Province,,,,,,,,2.0,66
+2014,,,Western Province,,,,,,,,3.0,62
+2014,,,Northern Province,,,,,,,,4.0,60
+2014,,,Eastern Province,,,,,,,,5.0,86
+2014,,,,,No education,,,,,,,89
+2014,,,,,Primary,,,,,,,65
+2014,,,,,Secondary and higher,,,,,,,43
+2014,,,,,,Lowest,,,,,,84
+2014,,,,,,Second,,,,,,77
+2014,,,,,,Middle,,,,,,68
+2014,,,,,,Fourth,,,,,,58
+2014,,,,,,Highest,,,,,,40
+2014,,,,,,,Male,,,,,70
+2014,,,,,,,Female,,,,,64
+2014,,,,,,,,<20,,,,83
+2014,,,,,,,,20 to 29,,,,62
+2014,,,,,,,,30 to 39,,,,71
+2014,,,,,,,,40 to 49,,,,80
+2014,,,,,,,,,1,,,66
+2014,,,,,,,,,2 to 3,,,62
+2014,,,,,,,,,4 to 6,,,70
+2014,,,,,,,,,7+,,,80
+2014,,,,,,,,,,<2 years,,99
+2014,,,,,,,,,,2 years,,70
+2014,,,,,,,,,,3 years,,49
+2014,,,,,,,,,,4+ years,,49
+2014,,,Kigali City,Nyarugenge,,,,,,,11.0,46
+2014,,,Kigali City,Gasabo,,,,,,,12.0,41
+2014,,,Kigali City,Kicukiro,,,,,,,13.0,40
+2014,,,Southern Province,Nyanza,,,,,,,21.0,62
+2014,,,Southern Province,Gisagara,,,,,,,22.0,104
+2014,,,Southern Province,Nyaruguru,,,,,,,23.0,77
+2014,,,Southern Province,Huye,,,,,,,24.0,61
+2014,,,Southern Province,Nyamagabe,,,,,,,25.0,52
+2014,,,Southern Province,Ruhango,,,,,,,26.0,62
+2014,,,Southern Province,Muhanga,,,,,,,27.0,41
+2014,,,Southern Province,Kamonyi,,,,,,,28.0,58
+2014,,,Western Province,Karongi,,,,,,,31.0,65
+2014,,,Western Province,Rutsiro,,,,,,,32.0,79
+2014,,,Western Province,Rubavu,,,,,,,33.0,77
+2014,,,Western Province,Nyabihu,,,,,,,34.0,62
+2014,,,Western Province,Ngororero,,,,,,,35.0,78
+2014,,,Western Province,Rusizi,,,,,,,36.0,61
+2014,,,Western Province,Nyamasheke,,,,,,,37.0,17
+2014,,,Northern Province,Rulindo,,,,,,,41.0,59
+2014,,,Northern Province,Gakenke,,,,,,,42.0,64
+2014,,,Northern Province,Musanze,,,,,,,43.0,67
+2014,,,Northern Province,Burera,,,,,,,44.0,52
+2014,,,Northern Province,Gicumbi,,,,,,,45.0,58
+2014,,,Eastern Province,Rwamagana,,,,,,,51.0,74
+2014,,,Eastern Province,Nyagatare,,,,,,,52.0,95
+2014,,,Eastern Province,Gatsibo,,,,,,,53.0,99
+2014,,,Eastern Province,Kayonza,,,,,,,54.0,96
+2014,,,Eastern Province,Kirehe,,,,,,,55.0,87
+2014,,,Eastern Province,Ngoma,,,,,,,56.0,75
+2014,,,Eastern Province,Bugesera,,,,,,,57.0,68

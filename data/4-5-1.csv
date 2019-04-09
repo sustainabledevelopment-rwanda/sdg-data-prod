@@ -1,7 +1,37 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Index,Region,Value
+2016-17,Net attendance rate (Primary),National,1.01
+2016-17,Net attendance rate (Primary),Urban,0.95
+2016-17,Net attendance rate (Primary),Rural,1.02
+2016-17,Gross attendance rate (Primary),National,0.99
+2016-17,Gross attendance rate (Primary),Urban,0.92
+2016-17,Gross attendance rate (Primary),Rural,1.0
+2016-17,Net attendance rate (Secondary),National,1.18
+2016-17,Net attendance rate (Secondary),Urban,0.99
+2016-17,Net attendance rate (Secondary),Rural,1.23
+2016-17,Gross attendance rate (Secondary),National,1.08
+2016-17,Gross attendance rate (Secondary),Urban,0.84
+2016-17,Gross attendance rate (Secondary),Rural,1.17
+2016-17,Repetition rate in primary school,National,0.86
+2016-17,Repetition rate in primary school,Urban,0.95
+2016-17,Repetition rate in primary school,Rural,0.85
+2016-17,Repetition rate in secondary school,National,1.32
+2016-17,Repetition rate in secondary school,Urban,1.7
+2016-17,Repetition rate in secondary school,Rural,1.19
+2016-17,Promotion rate in primary school,National,1.06
+2016-17,Promotion rate in primary school,Urban,1.0
+2016-17,Promotion rate in primary school,Rural,1.07
+2016-17,Promotion rate in secondary school,National,0.95
+2016-17,Promotion rate in secondary school,Urban,0.94
+2016-17,Promotion rate in secondary school,Rural,0.95
+2016-17,Literacy rate among the population aged 15 and above,National,0.89
+2016-17,Literacy rate among the population aged 15 and above,Urban,0.92
+2016-17,Literacy rate among the population aged 15 and above,Rural,0.89
+2016-17,Literacy rate among the population aged between 15 and 24,National,1.05
+2016-17,Literacy rate among the population aged between 15 and 25,Urban,1.01
+2016-17,Literacy rate among the population aged between 15 and 26,Rural,1.06
+2016-17,Percentage of individuals (6+ years) that have ever attended school,National,0.95
+2016-17,Percentage of individuals (6+ years) that have ever attended school,Urban,0.96
+2016-17,Percentage of individuals (6+ years) that have ever attended school,Rural,0.95
+2016-17,"Participation rate in organized learning (one year before the official primary entry age), by sex",National,2.2
+2016-17,"Participation rate in organized learning (one year before the official primary entry age), by sex",Urban,0.0
+2016-17,"Participation rate in organized learning (one year before the official primary entry age), by sex",Rural,2.7
