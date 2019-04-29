@@ -1,7 +1,33 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Sex,Occupation,Age,Value
+2018,Male,Managers,,2704
+2018,Male,Professionals,,1180
+2018,Male,Technicians and associate professions,,1649
+2018,Male,Clerical support workers,,1093
+2018,Male,Service and sales workers,,364
+2018,Male,"Skilled agricultural, forestry and fishery workers",,251
+2018,Male,Craft and related trades workers,,626
+2018,Male,"Plant and machine operators, and assemblers",,717
+2018,Male,Elementary occupations,,249
+2018,Female,Managers,,2154
+2018,Female,Professionals,,1134
+2018,Female,Technicians and associate professions,,1320
+2018,Female,Clerical support workers,,1074
+2018,Female,Service and sales workers,,489
+2018,Female,"Skilled agricultural, forestry and fishery workers",,132
+2018,Female,Craft and related trades workers,,365
+2018,Female,"Plant and machine operators, and assemblers",,280
+2018,Female,Elementary occupations,,204
+2018,Male,,16+,480
+2018,Female,,16+,356
+2018,Male,,16-24,273
+2018,Male,,25-34,506
+2018,Male,,35-54,600
+2018,Male,,55-64,449
+2018,Male,,65+,434
+2018,Female,,16-24,278
+2018,Female,,25-34,388
+2018,Female,,35-54,413
+2018,Female,,55-64,260
+2018,Female,,65+,223
+2018,Male,Person with disability,,249
+2018,Female,Person with disability,,178
