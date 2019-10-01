@@ -1,7 +1,19 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,Z,2
-2016,A,1
-2016,B,3
-2016,C,2
+Year,Category,Indices,Value
+2010/11,Children of 5-14 years old,Multidimensional deprivation Headcount (H),39.3
+2013/14,Children of 5-14 years old,Multidimensional deprivation Headcount (H),29.2
+2016/17,Children of 5-14 years old,Multidimensional deprivation Headcount (H),25.3
+2010/11,Children of 15-17 years old,Multidimensional deprivation Headcount (H),60.2
+2013/14,Children of 15-17 years old,Multidimensional deprivation Headcount (H),44.2
+2016/17,Children of 15-17 years old,Multidimensional deprivation Headcount (H),40.1
+2010/11,Children of 5-14 years old,Average Intensity among deprived (A); %,66.0
+2013/14,Children of 5-14 years old,Average Intensity among deprived (A); %,64.8
+2016/17,Children of 5-14 years old,Average Intensity among deprived (A); %,64.3
+2010/11,Children of 15-17 years old,Average Intensity among deprived (A); %,71.5
+2013/14,Children of 15-17 years old,Average Intensity among deprived (A); %,69.2
+2016/17,Children of 15-17 years old,Average Intensity among deprived (A); %,68.2
+2010/11,Children of 5-14 years old,Adjusted multidimensional deprivation headcount (MO),0.26
+2013/14,Children of 5-14 years old,Adjusted multidimensional deprivation headcount (MO),0.19
+2016/17,Children of 5-14 years old,Adjusted multidimensional deprivation headcount (MO),0.16
+2010/11,Children of 15-17 years old,Adjusted multidimensional deprivation headcount (MO),0.431
+2013/14,Children of 15-17 years old,Adjusted multidimensional deprivation headcount (MO),0.306
+2016/17,Children of 15-17 years old,Adjusted multidimensional deprivation headcount (MO),0.27399999999999997

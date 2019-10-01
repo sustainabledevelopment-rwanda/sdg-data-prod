@@ -1,7 +1,36 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Type,Value
+2016,Houses destroyed,75.0
+2016,Houses damaged,5821.0
+2016,Crops (Ha),7449.0
+2016,Live Stock,932.0
+2016,Classroom,82.0
+2016,Health center,2.0
+2016,Road,2.0
+2016,Churches,6.0
+2016,Bridges,40.0
+2016,Admin building,13.0
+2016,Water supply,39.0
+2016,Transmission Lines,2.0
+2016,School,4.0
+2017,Houses damaged,5802.0
+2017,Crops (Ha),5277.1
+2017,Live Stock,590.0
+2017,Classroom,203.0
+2017,Health center,3.0
+2017,Road,13.0
+2017,Churches,37.0
+2017,Bridges,49.0
+2017,Admin building,18.0
+2017,Water supply,10.0
+2017,Transmission Lines,79.0
+2018,Houses damaged,15910.0
+2018,Crops (Ha),13337.21
+2018,Live Stock,815.0
+2018,Classroom,73.0
+2018,Health center,3.0
+2018,Road,32.0
+2018,Churches,27.0
+2018,Bridges,64.0
+2018,Admin building,12.0
+2018,Water supply,1.0
+2018,Transmission Lines,26.0

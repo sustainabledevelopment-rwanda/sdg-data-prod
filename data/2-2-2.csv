@@ -1,3 +1,10 @@
-Year,Value
-2000,20.3
-2005,18.0
+Year,Type,Value
+2012,Wasting,4.3
+2012,Underweight,12.0
+2012,Overweight,
+2015,Wasting,1.7
+2015,Underweight,8.1
+2015,Overweight,8.0
+2018,Wasting,2.0
+2018,Underweight,12.6
+2018,Overweight,2.4

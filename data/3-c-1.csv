@@ -1,7 +1,6 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Type,Value
+2016/17,"Doctors out of 10,055 people",1
+2016/17,"Nurses out of 1,094 people",1
+2016/17,"Midwives out of 4,064 people",1
+2016/17,"Pharmacists out of 16,871 people",1
+2016/17,"Lab Technicians out of 10,500 people",1

@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2015,2015,2016,2016,2016],"Group":["A","B",null,"A","B",null],"Value":[1,3,2,1,3,2]},"edges":[]}
+{"data":{"Year":["2015/16","2015/16","2015/16","2017/18","2017/18","2017/18"],"Service":["Health","Education","Social Protection","Health","Education","Social Protection"],"Value":[204024372542,220651941795,74731877174,197351473973,240486878694,91075669292]},"edges":[]}

@@ -1,7 +1,5 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,10
-2016,B,3
-2016,,2
+Year,Sex,Type of tenure,Value
+2018,Male,,2010860
+2018,Female,,2079909
+2018,,Full Ownership,418559
+2018,,Emphyteutic Lease,11067490

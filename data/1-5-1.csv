@@ -1,26 +1,241 @@
-Year,Persons,Value
-2001,Deaths,12
-2002,Deaths,114
-2006,Deaths,24
-2007,Deaths,30
-2008,Deaths,36
-2010,Deaths,21
-2011,Deaths,14
-2012,Deaths,5
-2015,Deaths,2
-2016,Deaths,121
-2017,Deaths,3
-1996,Affected,82000
-1999,Affected,894545
-2001,Affected,3000
-2002,Affected,21643
-2003,Affected,1000000
-2006,Affected,2000
-2007,Affected,4500
-2008,Affected,11938
-2010,Affected,5937
-2011,Affected,3588
-2012,Affected,11160
-2015,Affected,3425
-2016,Affected,4000
-2017,Affected,6553
+Year,Event,District,Persons,Value
+2016,,,Deaths,183
+2016,Earthquake,,Deaths,0
+2016,Fire,,Deaths,2
+2016,Floods,,Deaths,24
+2016,Hailstorm,,Deaths,0
+2016,Landslides,,Deaths,110
+2016,Lightning,,Deaths,37
+2016,Mine disaster,,Deaths,0
+2016,Rainstorm,,Deaths,10
+2016,Windstorm,,Deaths,0
+2016,,Bugesera,Deaths,0
+2016,,Burera,Deaths,9
+2016,,Gakenke,Deaths,39
+2016,,Gasabo,Deaths,5
+2016,,Gatsibo,Deaths,1
+2016,,Gicumbi,Deaths,4
+2016,,Gisagara,Deaths,2
+2016,,Huye,Deaths,4
+2016,,Kamonyi,Deaths,0
+2016,,Karongi,Deaths,11
+2016,,Kayonza,Deaths,2
+2016,,Kicukiro,Deaths,0
+2016,,Kirehe,Deaths,0
+2016,,Muhanga,Deaths,18
+2016,,Musanze,Deaths,7
+2016,,Ngoma,Deaths,0
+2016,,Ngororero,Deaths,11
+2016,,Nyabihu,Deaths,7
+2016,,Nyagatare,Deaths,4
+2016,,Nyamagabe,Deaths,4
+2016,,Nyamasheke,Deaths,1
+2016,,Nyanza,Deaths,3
+2016,,Nyarugenge,Deaths,9
+2016,,Nyaruguru,Deaths,1
+2016,,Rubavu,Deaths,9
+2016,,Ruhango,Deaths,0
+2016,,Rulindo,Deaths,3
+2016,,Rusizi,Deaths,5
+2016,,Rutsiro,Deaths,24
+2016,,Rwamagana,Deaths,0
+2016,,,Injured,172
+2016,Earthquake,,Injured,0
+2016,Fire,,Injured,7
+2016,Floods,,Injured,3
+2016,Hailstorm,,Injured,0
+2016,Landslides,,Injured,51
+2016,Lightning,,Injured,88
+2016,Mine disaster,,Injured,0
+2016,Rainstorm,,Injured,23
+2016,Windstorm,,Injured,0
+2016,,Bugesera,Injured,2
+2016,,Burera,Injured,10
+2016,,Gakenke,Injured,24
+2016,,Gasabo,Injured,3
+2016,,Gatsibo,Injured,4
+2016,,Gicumbi,Injured,6
+2016,,Gisagara,Injured,0
+2016,,Huye,Injured,0
+2016,,Kamonyi,Injured,1
+2016,,Karongi,Injured,8
+2016,,Kayonza,Injured,2
+2016,,Kicukiro,Injured,2
+2016,,Kirehe,Injured,0
+2016,,Muhanga,Injured,7
+2016,,Musanze,Injured,2
+2016,,Ngoma,Injured,0
+2016,,Ngororero,Injured,4
+2016,,Nyabihu,Injured,4
+2016,,Nyagatare,Injured,0
+2016,,Nyamagabe,Injured,8
+2016,,Nyamasheke,Injured,17
+2016,,Nyanza,Injured,1
+2016,,Nyarugenge,Injured,4
+2016,,Nyaruguru,Injured,24
+2016,,Rubavu,Injured,8
+2016,,Ruhango,Injured,2
+2016,,Rulindo,Injured,7
+2016,,Rusizi,Injured,2
+2016,,Rutsiro,Injured,20
+2016,,Rwamagana,Injured,0
+2017,,,Deaths,82
+2017,Earthquake,,Deaths,0
+2017,Fire,,Deaths,2
+2017,Floods,,Deaths,15
+2017,Hailstorm,,Deaths,0
+2017,Landslides,,Deaths,7
+2017,Lightning,,Deaths,24
+2017,Mine disaster,,Deaths,13
+2017,Rainstorm,,Deaths,21
+2017,Windstorm,,Deaths,0
+2017,,Bugesera,Deaths,0
+2017,,Burera,Deaths,6
+2017,,Gakenke,Deaths,2
+2017,,Gasabo,Deaths,8
+2017,,Gatsibo,Deaths,2
+2017,,Gicumbi,Deaths,3
+2017,,Gisagara,Deaths,2
+2017,,Huye,Deaths,0
+2017,,Kamonyi,Deaths,3
+2017,,Karongi,Deaths,7
+2017,,Kayonza,Deaths,1
+2017,,Kicukiro,Deaths,2
+2017,,Kirehe,Deaths,0
+2017,,Muhanga,Deaths,8
+2017,,Musanze,Deaths,2
+2017,,Ngoma,Deaths,0
+2017,,Ngororero,Deaths,5
+2017,,Nyabihu,Deaths,6
+2017,,Nyagatare,Deaths,3
+2017,,Nyamagabe,Deaths,2
+2017,,Nyamasheke,Deaths,3
+2017,,Nyanza,Deaths,1
+2017,,Nyarugenge,Deaths,3
+2017,,Nyaruguru,Deaths,0
+2017,,Rubavu,Deaths,2
+2017,,Ruhango,Deaths,3
+2017,,Rulindo,Deaths,0
+2017,,Rusizi,Deaths,4
+2017,,Rutsiro,Deaths,4
+2017,,Rwamagana,Deaths,0
+2017,,,Injured and Traumatized,151
+2017,Earthquake,,Injured and Traumatized,0
+2017,Fire,,Injured and Traumatized,12
+2017,Floods,,Injured and Traumatized,2
+2017,Hailstorm,,Injured and Traumatized,1
+2017,Landslides,,Injured and Traumatized,4
+2017,Lightning,,Injured and Traumatized,63
+2017,Mine disaster,,Injured and Traumatized,6
+2017,Rainstorm,,Injured and Traumatized,63
+2017,Windstorm,,Injured and Traumatized,0
+2017,,Bugesera,Injured and Traumatized,3
+2017,,Burera,Injured and Traumatized,3
+2017,,Gakenke,Injured and Traumatized,7
+2017,,Gasabo,Injured and Traumatized,11
+2017,,Gatsibo,Injured and Traumatized,1
+2017,,Gicumbi,Injured and Traumatized,2
+2017,,Gisagara,Injured and Traumatized,4
+2017,,Huye,Injured and Traumatized,0
+2017,,Kamonyi,Injured and Traumatized,2
+2017,,Karongi,Injured and Traumatized,6
+2017,,Kayonza,Injured and Traumatized,2
+2017,,Kicukiro,Injured and Traumatized,2
+2017,,Kirehe,Injured and Traumatized,18
+2017,,Muhanga,Injured and Traumatized,4
+2017,,Musanze,Injured and Traumatized,8
+2017,,Ngoma,Injured and Traumatized,2
+2017,,Ngororero,Injured and Traumatized,5
+2017,,Nyabihu,Injured and Traumatized,2
+2017,,Nyagatare,Injured and Traumatized,7
+2017,,Nyamagabe,Injured and Traumatized,8
+2017,,Nyamasheke,Injured and Traumatized,6
+2017,,Nyanza,Injured and Traumatized,3
+2017,,Nyarugenge,Injured and Traumatized,0
+2017,,Nyaruguru,Injured and Traumatized,0
+2017,,Rubavu,Injured and Traumatized,16
+2017,,Ruhango,Injured and Traumatized,1
+2017,,Rulindo,Injured and Traumatized,0
+2017,,Rusizi,Injured and Traumatized,24
+2017,,Rutsiro,Injured and Traumatized,4
+2017,,Rwamagana,Injured and Traumatized,0
+2018,,,Deaths,80
+2018,Earthquake,,Deaths,1
+2018,Fire,,Deaths,1
+2018,Floods,,Deaths,8
+2018,Hailstorm,,Deaths,0
+2018,Landslides,,Deaths,1
+2018,Lightning,,Deaths,43
+2018,Mine disaster,,Deaths,16
+2018,Rainstorm,,Deaths,10
+2018,Windstorm,,Deaths,0
+2018,,Bugesera,Deaths,1
+2018,,Burera,Deaths,2
+2018,,Gakenke,Deaths,2
+2018,,Gasabo,Deaths,4
+2018,,Gatsibo,Deaths,1
+2018,,Gicumbi,Deaths,1
+2018,,Gisagara,Deaths,2
+2018,,Huye,Deaths,2
+2018,,Kamonyi,Deaths,0
+2018,,Karongi,Deaths,7
+2018,,Kayonza,Deaths,1
+2018,,Kicukiro,Deaths,2
+2018,,Kirehe,Deaths,2
+2018,,Muhanga,Deaths,1
+2018,,Musanze,Deaths,0
+2018,,Ngoma,Deaths,0
+2018,,Ngororero,Deaths,3
+2018,,Nyabihu,Deaths,1
+2018,,Nyagatare,Deaths,5
+2018,,Nyamagabe,Deaths,3
+2018,,Nyamasheke,Deaths,6
+2018,,Nyanza,Deaths,3
+2018,,Nyarugenge,Deaths,1
+2018,,Nyaruguru,Deaths,3
+2018,,Rubavu,Deaths,3
+2018,,Ruhango,Deaths,4
+2018,,Rulindo,Deaths,0
+2018,,Rusizi,Deaths,2
+2018,,Rutsiro,Deaths,4
+2018,,Rwamagana,Deaths,14
+2018,,,Injured,212
+2018,Earthquake,,Injured,3
+2018,Fire,,Injured,19
+2018,Floods,,Injured,0
+2018,Hailstorm,,Injured,0
+2018,Landslides,,Injured,11
+2018,Lightning,,Injured,81
+2018,Mine disaster,,Injured,2
+2018,Rainstorm,,Injured,95
+2018,Windstorm,,Injured,1
+2018,,Bugesera,Injured,2
+2018,,Burera,Injured,13
+2018,,Gakenke,Injured,10
+2018,,Gasabo,Injured,2
+2018,,Gatsibo,Injured,2
+2018,,Gicumbi,Injured,2
+2018,,Gisagara,Injured,3
+2018,,Huye,Injured,1
+2018,,Kamonyi,Injured,0
+2018,,Karongi,Injured,3
+2018,,Kayonza,Injured,5
+2018,,Kicukiro,Injured,0
+2018,,Kirehe,Injured,20
+2018,,Muhanga,Injured,0
+2018,,Musanze,Injured,1
+2018,,Ngoma,Injured,0
+2018,,Ngororero,Injured,9
+2018,,Nyabihu,Injured,0
+2018,,Nyagatare,Injured,26
+2018,,Nyamagabe,Injured,1
+2018,,Nyamasheke,Injured,14
+2018,,Nyanza,Injured,23
+2018,,Nyarugenge,Injured,1
+2018,,Nyaruguru,Injured,5
+2018,,Rubavu,Injured,12
+2018,,Ruhango,Injured,2
+2018,,Rulindo,Injured,4
+2018,,Rusizi,Injured,32
+2018,,Rutsiro,Injured,9
+2018,,Rwamagana,Injured,10
