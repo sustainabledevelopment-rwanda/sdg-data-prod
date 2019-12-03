@@ -1,2 +1,4 @@
-Year,Value
-2016-17,66.2
+Year,Region,Value
+2016-17,,87.5
+2016-17,Urban,94.2
+2016-17,Rural,86.0

@@ -1,9 +1,4 @@
-Year,Economic Sector,Sex,Value
-2018,Industry,Both,96.0
-2018,Industry,Male,95.8
-2018,Industry,Female,97.0
-2018,Service,Both,77.7
-2018,Service,Male,75.6
-2018,Service,Female,80.4
-2016,,,86.2
-2017,,,84.6
+Year,Value
+2016,86.2
+2017,84.6
+2018,83.5

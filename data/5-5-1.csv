@@ -1,33 +1,34 @@
-Year,Seat,Value
-2016-17,,47.3
-2017-18,Ministers,52.3
-2016-17,Permanent Secretary,35.3
-2017-18,Permanent Secretary,30.0
-2016-17,State Ministers,20.0
-2017-18,State Ministers,27.7
-2016-17,Heads Public institutions,19.5
-2017-18,Heads Public institutions,20.0
-2016,Deputies,64.0
-2017,Deputies,64.0
-2018,Deputies,61.0
-2016,Senate,38.0
-2017,Senate,38.0
-2018,Senate,38.0
-2016,Governors,40.0
-2017,Governors,20.0
-2018,Governors,40.0
-2016,Bureau of the executive districts council,71.0
-2017,Bureau of the executive districts council,46.0
-2018,Bureau of the executive districts council,55.0
-2016,Mayors,16.7
-2017,Mayors,20.0
-2018,Mayors,26.7
-2016,Vice-Mayor in charge of Economic Affairs,20.0
-2017,Vice-Mayor in charge of Economic Affairs,16.7
-2018,Vice-Mayor in charge of Economic Affairs,16.7
-2016,Vice-Mayor in charge of Social Affairs,73.3
-2017,Vice-Mayor in charge of Social Affairs,76.7
-2018,Vice-Mayor in charge of Social Affairs,66.7
-2016,Districts Council,45.2
-2017,Districts Council,45.2
-2018,Districts Council,45.2
+Year,Units,Seat,Value
+2014,National Parliament,Deputies,56.4
+2016,National Parliament,Deputies,64.0
+2018,National Parliament,Deputies,61.0
+2014,National Parliament,Senate,38.5
+2016,National Parliament,Senate,38.0
+2018,National Parliament,Senate,38.0
+2014,Local Government,Governors and Mayor of Kigali City,25.0
+2016,Local Government,Governors and Mayor of Kigali City,40.0
+2018,Local Government,Governors and Mayor of Kigali City,40.0
+2014,Local Government,District Mayors,6.6
+2016,Local Government,District Mayors,16.7
+2018,Local Government,District Mayors,26.7
+2016,Local Government,District Vice Mayors in Charge of Economic Affairs,20.0
+2018,Local Government,District Vice Mayors in Charge ofEconomic Affairs,16.7
+2016,Local Government,District Vice Mayors in Charge of Social Affairs,76.7
+2018,Local Government,District Vice Mayors in Charge of Social Affairs,66.7
+2014,Local Government,Districts Consultative Council,44.8
+2016,Local Government,Districts Consultative Council,45.2
+2018,Local Government,Districts Consultative Council,45.2
+2016,Local Government,Sectors Consultative Council,42.7
+2018,Local Government,Sectors Consultative Council,42.7
+2016,Local Government,Cells Consultative Council,34.5
+2018,Local Government,Cells Consultative Council,41.6
+2018,Local Government,Village Executive Committee,39.4
+2014,Local Government,District Executive Secretaries,6.7
+2016,Local Government,District Executive Secretaries,7.0
+2018,Local Government,District Executive Secretaries,10.0
+2014,Local Government,Sector Executive Secretaries,9.1
+2016,Local Government,Sector Executive Secretaries,11.0
+2018,Local Government,Sector Executive Secretaries,17.0
+2014,Local Government,Cell Executive Secretaries,37.7
+2016,Local Government,Cell Executive Secretaries,35.0
+2018,Local Government,Cell Executive Secretaries,36.0
