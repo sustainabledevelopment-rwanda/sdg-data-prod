@@ -1,9 +1,19 @@
 Year,COMMENT_OBS,Series,Value
-2016,Number of destroyed or damaged health facilities attributed to disasters,Number of destroyed or damaged health facilities attributed to disasters [11.5.2],2.0
-2017,Number of destroyed or damaged health facilities attributed to disasters,Number of destroyed or damaged health facilities attributed to disasters [11.5.2],3.0
-2018,Number of destroyed or damaged health facilities attributed to disasters,Number of destroyed or damaged health facilities attributed to disasters [11.5.2],3.0
-2019,Number of destroyed or damaged health facilities attributed to disasters,Number of destroyed or damaged health facilities attributed to disasters [11.5.2],1.0
-2016,Number of destroyed or damaged educational facilities attributed to disasters,Number of destroyed or damaged educational facilities attributed to disasters [11.5.2],82.0
-2017,Number of destroyed or damaged educational facilities attributed to disasters,Number of destroyed or damaged educational facilities attributed to disasters [11.5.2],203.0
-2018,Number of destroyed or damaged educational facilities attributed to disasters,Number of destroyed or damaged educational facilities attributed to disasters [11.5.2],73.0
-2019,Number of destroyed or damaged educational facilities attributed to disasters,Number of destroyed or damaged educational facilities attributed to disasters [11.5.2],203.0
+2018,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,3.0
+2019,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,1.0
+2020,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,4.0
+2021,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,3.0
+2022,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,1.0
+2023,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,5.0
+2018,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,73.0
+2019,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,203.0
+2020,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,96.0
+2021,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,381.0
+2022,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,323.0
+2023,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,154.0
+2018,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters,VC_DSR_CILN,977.0
+2019,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters,VC_DSR_CILN,338.0
+2020,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters,VC_DSR_CILN,4382.0
+2021,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters,VC_DSR_CILN,323.0
+2022,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters,VC_DSR_CILN,533.0
+2023,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters,VC_DSR_CILN,1445.0

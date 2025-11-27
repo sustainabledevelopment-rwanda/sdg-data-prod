@@ -15,64 +15,19 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Average hourly earnings for Managers",
-                "Average hourly earnings for Professionals",
-                "Average hourly earnings for Technicians and associate professions",
-                "Average hourly earnings for Clerical Support workers",
-                "Average hourly earnings for Service and sales workers",
-                "Average hourly earnings for Skilled agriculture, forestry and fishery workers",
-                "Average hourly earnings for Craft and related trades workers",
-                "Average hourly earnings for Plant and Machine operators, and assemblers",
-                "Average hourly earnings for Elementary Occupations",
-                "Average hourly earnings",
-                "Average hourly earnings, Person with disability",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16 years old and over",
-                "16 to 24 years old",
-                "25 to 34 years old",
-                "55 to 64 years old",
-                "65 years old and over",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Occupation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Managers",
-                "Professionals",
-                "Technicians and associate professionals",
-                "Clerical support workers",
-                "Service and sales workers",
-                "Skilled agricultural, forestry and fishery workers",
-                "Craft and related trades workers",
-                "Plant and machine operators, and assemblers",
-                "Elementary occupations",
+                "ISCO08_1",
+                "ISCO08_2",
+                "ISCO08_3",
+                "ISCO08_4",
+                "ISCO08_5",
+                "ISCO08_6",
+                "ISCO08_7",
+                "ISCO08_8",
+                "ISCO08_9",
                 ""
               ]
             }

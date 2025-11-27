@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation",
-                "Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation (Co- owned)",
+                "Total Number of adult population who have land",
+                "Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation (Owned by other)",
                 ""
               ]
             },
             "title": "Observation-level footnotes"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -38,6 +38,18 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER",
+                "PT",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
