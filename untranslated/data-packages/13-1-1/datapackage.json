@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of deaths due to disaster",
-                "Number of people affected by disaster",
+                "Number of deaths due to disaster per 100,000 population",
+                "Number of persons injured or missing due to disaster per 100,000 population",
                 ""
               ]
             }
@@ -30,10 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "VC_DSR_MORT",
-                "VC_DSR_AFFCT",
-                "VC_DSR_MTMP",
-                "VC_DSR_DAFF",
+                "VC_DSR_MORT_1",
+                "VC_DSR_AFFCT_1",
                 ""
               ]
             }
