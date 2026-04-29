@@ -16,36 +16,19 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Literacy rate of children in P2",
-                "Numeracy rate of children in P2",
-                "Literacy rate of children in P3",
-                "Numeracy rate of children in P3",
-                "Literacy rate of children in P5",
-                "Numeracy rate of children in P5",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
+            "title": "SDG Series"
           },
           {
-            "name": "Series",
-            "type": "string",
+            "name": "REF_AREA",
+            "type": "number",
             "constraints": {
               "enum": [
-                "_L_RW_040101_1",
-                "_L_RW_040101_2",
-                "_L_RW_040101_3",
-                "_L_RW_040101_4",
-                "_L_RW_040101_5",
-                "_L_RW_040101_6",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Reference area"
           },
           {
             "name": "SEX",
@@ -70,6 +53,16 @@
               ]
             },
             "title": "Education level"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

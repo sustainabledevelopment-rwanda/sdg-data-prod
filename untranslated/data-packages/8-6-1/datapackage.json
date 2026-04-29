@@ -15,23 +15,14 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of youth (aged 16-24 years) not in education, employment or training",
-                "Proportion of youth (aged 16-30 years) not in education, employment or training",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Series",
-            "type": "string",
+            "name": "REF_AREA",
+            "type": "number",
             "constraints": {
               "enum": [
-                "_L_RW_080601_1",
-                "_L_RW_080601_2",
                 ""
               ]
             }
@@ -46,6 +37,14 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",

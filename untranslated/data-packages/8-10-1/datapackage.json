@@ -15,26 +15,25 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Number of automated teller machines (ATMs) per 100,000 adults",
-                "Number of commercial bank branches per 100,000 adults",
                 ""
               ]
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FB_ATM_TOTL",
-                "FB_CBK_BRCH",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",

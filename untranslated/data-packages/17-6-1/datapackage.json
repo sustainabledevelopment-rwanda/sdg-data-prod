@@ -15,26 +15,25 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
             "constraints": {
               "enum": [
-                "IT_NET_BBND",
-                "IT_NET_BBNDN",
                 ""
               ]
             }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PER_100_POP",
-                "NUMBER",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",

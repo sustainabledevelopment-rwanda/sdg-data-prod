@@ -1,5 +1,5 @@
-Year,Value
-2005,51.0
-2010,44.0
-2015,37.9
-2020,33.1
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2005,51.0,,Percent,Proportion of children moderately or severely stunted [2.2.1]
+2010,44.0,,Percent,Proportion of children moderately or severely stunted [2.2.1]
+2015,37.9,,Percent,Proportion of children moderately or severely stunted [2.2.1]
+2020,33.1,,Percent,Proportion of children moderately or severely stunted [2.2.1]

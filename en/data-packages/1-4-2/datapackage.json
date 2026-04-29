@@ -16,16 +16,19 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "SERIES",
             "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Total Number of adult population who have land",
-                "Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation (Owned by other)",
                 ""
               ]
             },
-            "title": "Observation-level footnotes"
+            "title": "Reference area"
           },
           {
             "name": "SEX",
@@ -40,16 +43,14 @@
             "title": "Sex"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "NUMBER",
-                "PT",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

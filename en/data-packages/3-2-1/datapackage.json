@@ -16,6 +16,11 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
@@ -43,6 +48,17 @@
             "title": "Sex"
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "under 5 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
@@ -53,6 +69,11 @@
               ]
             },
             "title": "Degree of urbanisation"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
           },
           {
             "name": "GeoCode",

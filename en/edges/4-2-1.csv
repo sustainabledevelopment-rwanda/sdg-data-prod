@@ -1,3 +1,3 @@
 From,To
-Observation-level footnotes,Age
-Age,Sex
+Education level,Sex
+Age,Education level

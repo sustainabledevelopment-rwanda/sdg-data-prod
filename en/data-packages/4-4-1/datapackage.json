@@ -16,42 +16,19 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of youth and adults with information and communications technology (ICT) skills - Copying (Moving) a file or a folder",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - Using Copy and Paste",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - Sending e-mails with attached files",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - Using basic arithmetic formulae in a spreadsheet",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - Connecting and installing new devices",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - Finding, downloading installing and configuring software",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - Creating electronic presentations with presentation software",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - Transferring files between a computer and other devices",
-                "Proportion of youth and adults with information and communications technology (ICT) skills  - Writing a computer program using a specialized programming language",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
+            "title": "SDG Series"
           },
           {
-            "name": "Series",
-            "type": "string",
+            "name": "REF_AREA",
+            "type": "number",
             "constraints": {
               "enum": [
-                "SE_ADT_ACTS",
-                "_L_RW_040401_1",
-                "_L_RW_040401_2",
-                "_L_RW_040401_3",
-                "_L_RW_040401_4",
-                "_L_RW_040401_5",
-                "_L_RW_040401_6",
-                "_L_RW_040401_7",
-                "_L_RW_040401_8",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Reference area"
           },
           {
             "name": "URBANISATION",
@@ -64,6 +41,16 @@
               ]
             },
             "title": "Degree of urbanisation"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

@@ -16,29 +16,19 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Only Women own agriculture",
-                "Only Men own agriculture",
-                "Both male and female for married couples own agriculture",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
+            "title": "SDG Series"
           },
           {
-            "name": "Series",
-            "type": "string",
+            "name": "REF_AREA",
+            "type": "number",
             "constraints": {
               "enum": [
-                "_L_RW_050A01_1",
-                "_L_RW_050A01_2",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Reference area"
           },
           {
             "name": "SEX",
@@ -51,6 +41,16 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

@@ -1,4 +1,4 @@
-Year,Value
-2017,79
-2018,15
-2020,79
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2017,79,,Percent,Proportion of bodies of water with good ambient water quality [6.3.2]
+2018,15,,Percent,Proportion of bodies of water with good ambient water quality [6.3.2]
+2020,79,,Percent,Proportion of bodies of water with good ambient water quality [6.3.2]

@@ -15,39 +15,25 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Mail volume (tonne kilometres)",
-                "Freight volume (tonne kilometres)",
-                "Passenger volume (passenger kilometres)",
                 ""
               ]
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "IS_TRP_MAILTKM",
-                "IS_RDP_FRGVOL",
-                "IS_RDP_PFVOL",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "T",
-                "NUMBER",
-                ""
-              ]
-            }
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",

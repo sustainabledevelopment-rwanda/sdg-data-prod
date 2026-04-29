@@ -1,1 +1,3 @@
-Year,Value,Series
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2017,84.6,,Percent,"Proportion of population achieving at least a fixed level of proficiency in functional skills - All levels, Literacy rate (%) among youth population"
+2017,84.8,,Percent,"Proportion of population achieving at least a fixed level of proficiency in functional skills  - All levels, Numeracy rate (%) among youth population"

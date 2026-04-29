@@ -15,23 +15,24 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Proportion of women aged 20-24 years who were married or in a union before age 15",
-                "Proportion of women aged 20-24 years who were married or in a union before age 18",
                 ""
               ]
             }
           },
           {
-            "name": "Series",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "SP_DYN_MRBF15",
-                "SP_DYN_MRBF18",
+                "F",
                 ""
               ]
             }
@@ -46,6 +47,14 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",

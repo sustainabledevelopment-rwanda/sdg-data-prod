@@ -15,41 +15,14 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of schools with access to electricity - Nursery",
-                "Proportion of schools with access to electricity - Primary",
-                "Proportion of schools with access to electricity - Secondary",
-                "Proportion of schools with access to the internet for pedagogical purposes - Primary",
-                "Proportion of schools with access to the internet for pedagogical purposes - Secondary",
-                "Proportion of schools with access to computers for pedagogical purposes - Primary",
-                "Proportion of schools with access to computers for pedagogical purposes - Secondary",
-                "Proportion of schools with basic handwashing facilities - Nursery",
-                "Proportion of schools with basic handwashing facilities - Primary",
-                "Proportion of schools with basic handwashing facilitiesr - Secondary",
-                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Nursery",
-                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Primary",
-                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Secondary",
-                "Proportion of schools with access to basic drinking water - Nursery",
-                "Proportion of schools with access to basic drinking water - Primary",
-                "Proportion of schools with access to basic drinking water - Secondary",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Series",
-            "type": "string",
+            "name": "REF_AREA",
+            "type": "number",
             "constraints": {
               "enum": [
-                "SE_ACS_ELECT",
-                "SE_ACS_INTNT",
-                "SE_ACS_CMPTR",
-                "SE_ACC_HNDWSH",
-                "SE_INF_DSBL",
-                "SE_ACS_H2O",
                 ""
               ]
             }
@@ -65,6 +38,14 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",

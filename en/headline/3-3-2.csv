@@ -1,8 +1,8 @@
-Year,Value
-2008,98
-2012,86
-2015,56
-2017,50
-2018,58
-2020,58
-2022,57
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2008,98,,"Per 100,000 population",Tuberculosis incidence [3.3.2]
+2012,86,,"Per 100,000 population",Tuberculosis incidence [3.3.2]
+2015,56,,"Per 100,000 population",Tuberculosis incidence [3.3.2]
+2017,50,,"Per 100,000 population",Tuberculosis incidence [3.3.2]
+2018,58,,"Per 100,000 population",Tuberculosis incidence [3.3.2]
+2020,58,,"Per 100,000 population",Tuberculosis incidence [3.3.2]
+2022,57,,"Per 100,000 population",Tuberculosis incidence [3.3.2]

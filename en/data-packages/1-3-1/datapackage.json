@@ -16,36 +16,19 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of population covered by core Social Protection programs",
-                "Number of members of Pension and occupational Hazards",
-                "Number of population covered by Medical scheme",
-                "Proportion of population covered by Community-Based Health Insurance (Coverage rate)",
-                "Proportion of population covered by Health insurance",
-                "Number of actively contributing women covered by Maternity Leave Benefits",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
+            "title": "SDG Series"
           },
           {
-            "name": "Series",
-            "type": "string",
+            "name": "REF_AREA",
+            "type": "number",
             "constraints": {
               "enum": [
-                "_L_RW_010301_1",
-                "_L_RW_010301_2",
-                "_L_RW_010301_3",
-                "_L_RW_010301_4",
-                "_L_RW_010301_5",
-                "_L_RW_010301_6",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Reference area"
           },
           {
             "name": "SEX",
@@ -72,16 +55,14 @@
             "title": "Degree of urbanisation"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                "NUMBER",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

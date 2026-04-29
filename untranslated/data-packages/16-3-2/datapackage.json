@@ -15,37 +15,25 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Unsentenced detainees as a proportion of overall prison population",
-                "Unsentenced detainees (number)",
                 ""
               ]
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "VC_PRS_UNSNT",
-                "VC_PRS_UNSNTN",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                "NUMBER",
-                ""
-              ]
-            }
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",

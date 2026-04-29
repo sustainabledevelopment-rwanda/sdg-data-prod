@@ -1,6 +1,6 @@
-Year,Value
-2000,77.2
-2005,68.3
-2011,62.3
-2014,56.8
-2017,52.0
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2000,Proportion of population below international poverty line [1.1.1],,Percent,,77.2
+2005,Proportion of population below international poverty line [1.1.1],,Percent,,68.3
+2011,Proportion of population below international poverty line [1.1.1],,Percent,,62.3
+2014,Proportion of population below international poverty line [1.1.1],,Percent,,56.8
+2017,Proportion of population below international poverty line [1.1.1],,Percent,,52.0

@@ -15,6 +15,10 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
@@ -40,6 +44,16 @@
             }
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y0T4",
+                ""
+              ]
+            }
+          },
+          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
@@ -49,6 +63,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",

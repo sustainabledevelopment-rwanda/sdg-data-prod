@@ -15,37 +15,25 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Death rate due to road traffic injuries",
-                "Number of deaths rate due to road traffic injuries",
                 ""
               ]
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_STA_TRAF",
-                "SH_STA_TRAFN",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PER_100000_POP",
-                "NUMBER",
-                ""
-              ]
-            }
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",

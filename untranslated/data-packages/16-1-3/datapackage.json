@@ -15,23 +15,14 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey",
-                "Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Series",
-            "type": "string",
+            "name": "REF_AREA",
+            "type": "number",
             "constraints": {
               "enum": [
-                "_L_RW_160103_1",
-                "_L_RW_160103_2",
                 ""
               ]
             }
@@ -46,6 +37,14 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",

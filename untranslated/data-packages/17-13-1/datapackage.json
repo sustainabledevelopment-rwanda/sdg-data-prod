@@ -15,39 +15,25 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Annual growth rate of real GDP per capita",
-                "Unemployment rate",
-                "Consumer Price Index (CPI), annual at February",
                 ""
               ]
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MD_NY_GDP_PCAP",
-                "MD_SL_TLF_UEM",
-                "MD_CPI",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                "NUMBER",
-                ""
-              ]
-            }
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",

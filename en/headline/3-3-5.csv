@@ -1,4 +1,4 @@
-Year,Value
-2016,4815291
-2021,4935596
-2022,11532788
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2016,4815291,,Number,Number of people requiring interventions against neglected tropical diseases [3.3.5]
+2021,4935596,,Number,Number of people requiring interventions against neglected tropical diseases [3.3.5]
+2022,11532788,,Number,Number of people requiring interventions against neglected tropical diseases [3.3.5]

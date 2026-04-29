@@ -15,31 +15,14 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Literacy rate of children in P2",
-                "Numeracy rate of children in P2",
-                "Literacy rate of children in P3",
-                "Numeracy rate of children in P3",
-                "Literacy rate of children in P5",
-                "Numeracy rate of children in P5",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Series",
-            "type": "string",
+            "name": "REF_AREA",
+            "type": "number",
             "constraints": {
               "enum": [
-                "_L_RW_040101_1",
-                "_L_RW_040101_2",
-                "_L_RW_040101_3",
-                "_L_RW_040101_4",
-                "_L_RW_040101_5",
-                "_L_RW_040101_6",
                 ""
               ]
             }
@@ -65,6 +48,14 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",
